@@ -1,0 +1,585 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands alarm to vvar against the Beast: by command from heaven, and his Israels example upon earth, comming-in to rescue David, out of the hands of a cruell Lord, and a bloudy Edomite: upon the same ground from Scripture and reason, Israel had then, and Christians now, to resist the prince ruling in the aire, and with the kings of the earth. In 3. sections: wherein, I. The history of Sauls war against David is so related ... that it relates ... to the three last yeeres affaires ... II. And to the bloudy execution of the Edomite in this war against the Parliament in Ireland and Lngland [sic] ever since. III. Here is also excellent reason given, why the tribes came not in sooner ... Also, to confirme the hearts and hands of the godly in their warfare ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83947</idno>
+            <idno type="STC">Wing E2941</idno>
+            <idno type="STC">Thomason E56_15</idno>
+            <idno type="STC">ESTC R20696</idno>
+            <idno type="EEBO-CITATION">99866040</idno>
+            <idno type="PROQUEST">99866040</idno>
+            <idno type="VID">118300</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118300)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E56[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands alarm to vvar against the Beast: by command from heaven, and his Israels example upon earth, comming-in to rescue David, out of the hands of a cruell Lord, and a bloudy Edomite: upon the same ground from Scripture and reason, Israel had then, and Christians now, to resist the prince ruling in the aire, and with the kings of the earth. In 3. sections: wherein, I. The history of Sauls war against David is so related ... that it relates ... to the three last yeeres affaires ... II. And to the bloudy execution of the Edomite in this war against the Parliament in Ireland and Lngland [sic] ever since. III. Here is also excellent reason given, why the tribes came not in sooner ... Also, to confirme the hearts and hands of the godly in their warfare ...</title>
+               </titleStmt>
+               <extent>[8], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the second yeare of the Beasts wounding, making war with the Lamb, and those that are with him, called, chosen and faithfull: for Thomas Vnderhill,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>MDCXLIII. [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July ist".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 1st, XIX-XXXI --  Commentaries --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118300:1" rendition="simple:additions"/>
+            <p>
+               <hi>Englands</hi> Alarm to VVar againſt the <hi>Beaſt:</hi>
+            </p>
+            <p>By command from Heaven, and His Iſraels Example upon Earth, comming in to reſcue <hi>David</hi> out of the hands of a cruell <hi>Lord</hi> and a bloudy <hi>Edomite:</hi> upon the ſame ground from <hi>Scripture</hi> and <hi>Reaſon,</hi> Iſrael had then, and Chriſtians now, To reſiſt the Prince ruling in the Aire, and with the Kings of the Earth.</p>
+            <p>
+               <hi>In 3. Sections:</hi> Wherein,</p>
+            <p n="1">I. The Hiſtory of <hi>Sauls</hi> War againſt <hi>David</hi> is ſo related from the ſacred Text, that it relates in whole, and in part, to the three laſt yeeres affaires: The moſt remarkable Paſſages between the King and the Parliament before the War brake forth.</p>
+            <p n="2">II. And to the bloudy Execution of the <hi>Edomite</hi> in this War againſt the Parlia<g ref="char:EOLhyphen"/>ment in <hi>Ireland</hi> and <hi>England</hi> ever ſince.</p>
+            <p n="3">III. Here is alſo excellent Reaſon given, Why the Tribes came not in ſooner; and ſufficient Reaſon, Why they came in ſo Armed at the laſt: Relating ful<g ref="char:EOLhyphen"/>ly to this preſent time, The wonderfull Providences, The admirable Deli<g ref="char:EOLhyphen"/>verances, Strange Diſcoveries, &amp;c. As at this day.</p>
+            <p>Alſo, To confirme the hearts and hands of the Godly in their warfare: and to ſtrike terrour to the wicked, fighting for the Devill, and againſt <hi>Gods hidden ones,</hi> contrary to the Vow in Baptiſme, Oath of Allegiance, and Covenant en<g ref="char:EOLhyphen"/>tred into by all good Subiects; And To ſtabliſh the heart in a patient expecta<g ref="char:EOLhyphen"/>tion of the glorious <hi>end</hi> GOD will make, Though, for a time, He will plead with all fleſh by fire, and by His ſword, and the ſlain of the LORD ſhall be many.</p>
+            <q>
+               <hi>He who affirms. That Chriſtians may not reſiſt wicked Rulers, does affirme with as with as loud a voice though he would not be heard) That Chriſtians may not re<g ref="char:EOLhyphen"/>ſiſt the</hi> Evill-one, <hi>ruling in wicked Rulers, and acting violences by their hands,</hi> 
+               <bibl>Scl. de Imp.</bibl>
+            </q>
+            <q>
+               <bibl>PSAL. 11. 5, 6 7.</bibl> 
+               <hi>The Lord tryeth the Righteous but him, that loveth violence, His ſoul hateth, </hi>
+            </q>
+            <q>
+               <bibl>ISAIAH 60 22.</bibl> 
+               <hi>A little one ſhall become a thouſand, and a ſmall one a ſtrong Nation, I the</hi> Lord <hi>will haſten it in His time.</hi>
+            </q>
+            <p>Printed in the ſecond yeare of the <hi>Beaſts</hi> wounding, making war with the <hi>Lamb,</hi> and thoſe that are with Him, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Faithfull for <hi>Thomas <g ref="char:V">Ʋ</g>nderhill.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="apology">
+            <pb facs="tcp:118300:2"/>
+            <head>An Apologie for the Epiſtle following.</head>
+            <p>I Shall lay open the <hi>depths of Sathan, hidden works of darkneſſe.</hi> Then I ſhall ſhew a Traine of <hi>Providences, &amp;c. The ſure mercies of David:</hi> I can tell my ſelfe, now, I ſhall, againſt my Rule, ſpeak excellent things in the <hi>eares of a foole:</hi> ſhew him the Sun in your hand (as the Proverbe is) he will not ſee it: Tell him it is the <hi>Word</hi> of <hi>God,</hi> what cares he, he will not heare it. Tell him it is a Pearle, he regards it not. A very ſwine, A brutiſh man, Mad upon his Idols. Yet let us do our endeavours to make him ſober. Surely this before him, will do it, if any thing under heaven can make him heare and ſee both. For he will ſee the Devill here all along acting a bloudy part; and, if the Devill be not in him, he will ſee himſelfe, and his owne Actings in the <hi>Devill.</hi> He will heare two men ſpeaking to him from the dead alſo, he will ſee all their notorious violences acted over afreſh by his own hand now. He muſt heare the voice of the <hi>Eving God</hi> too, and ſee what end the LORD makes. Thoſe Perſons all, whom he and his fel<g ref="char:EOLhyphen"/>lowes have dealt ſo <hi>hatefully</hi> with, ſhall be ſet on high before his face, (the higher, the lower he would have preſſed them downe) there ſinging the <hi>high praiſes</hi> of their GOD; and himſelfe amongſt others his fellow Malignants laid low, as contemptible as their own dung, gnawing their tongues for paine. Whether he will heare, or whether he will forbeare, it is at his perill: Let him that is filthy, be filthy ſtill: and let the foole hold faſt his folly: ſober men will heare, and be in<g ref="char:EOLhyphen"/>ſtructed.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:118300:2"/>
+            <head>To the moſt Malignant Reader.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>T is granted on both ſides (there are but two) That now is the time all over the Chriſtian world, when</hi> Kings go forth to battell: <hi>All their Subjects are engaged now. It is high time then to conſider the Caſe, weigh it well with all our hearts, and with all our ſoules. There are but two great Commanders in the world,</hi> God <hi>and the</hi> Devill; <hi>All ſerve under th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe two. Another Commander there is (we call it mans</hi> Will) <hi>and boa<g ref="char:EOLhyphen"/>ſteth great things, but an underling it is, and ſubſervient, obeyed in refe<g ref="char:EOLhyphen"/>rence to the other two, who rule in chiefe: ſo the queſtion is ſingle,</hi> Who muſt be hearkened to or obeyed? <hi>Not whether</hi> Gods Command, <hi>or</hi> mans Will <hi>contrary thereunto? Though this is the greateſt queſtion in the world, and moſt ſtubbornly argued; nor will it be anſwered, no not when it is anſwered and fairly propoſed to every mans conſideration, judge yet ſo it was anſwered more then ſixteen hundred yeeres ago, therefore</hi> 
+               <note place="margin">Act. 14. 19</note> 
+               <hi>it cannot be the queſtion now: But this; Whether</hi> God is to be o<g ref="char:EOLhyphen"/>beyed <hi>or the</hi> Devill? <hi>I confeſſe it is a ſtrange queſtion: But it were a ſtranger anſwer, and argued more then a diſtemper in the brain: To ſay,</hi> That the Devill is to be obeyed, and God is to be reſiſted. <hi>And yet ſo much thou muſt ſay, if thou wilt accuſe</hi> Iſrael <hi>now for taking up de<g ref="char:EOLhyphen"/>fenſive Armes, being charged thereunto in obedience to</hi> God, <hi>and in defi<g ref="char:EOLhyphen"/>ance of the</hi> Devill; <hi>for this is the very Caſe, which we will propoſe in Iſ<g ref="char:EOLhyphen"/>raels Caſe fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt: and anon, bring-it-up to our times, and make every line then run parallell with our Caſe now. This was Iſraels Caſe;</hi>
+            </p>
+            <p>
+               <hi>All true Iſrael once tooke ſhield and buckler, came in ſo armed</hi> to re<g ref="char:EOLhyphen"/>ſcue David. <hi>Did they well? It muſt be granted they did well, and their bounden duty in reſcuing</hi> David, <hi>and in him, themſelves, out of the hand of a cruell</hi> Lord, <hi>and bloody</hi> Edomite. <hi>Indeed it would argue more then indiſcretion in us to cenſure</hi> all <hi>Iſrael at that point, for</hi> taking up defen<g ref="char:EOLhyphen"/>ſive Armes, <hi>though we could give no reaſon for what they did. But the</hi>
+               <pb facs="tcp:118300:3"/> 
+               <hi>ſacred Text is cleare in the point, That the Tribes came-in, not with an intent to</hi> reſiſt Saul <hi>their</hi> King; <hi>no, nor the</hi> Edomite <hi>neither, (and that a</hi> Malignant <hi>may think ſtrange, being not like, but the ſame now, with the Edomite then, a bloody adverſary to Iſrael; and yet Iſrael not reſiſt him:) But to</hi> reſiſt the evill Spirit <hi>commanding in chiefe with both: This</hi> evill Spirit <hi>commanded in</hi> Saul, <hi>elſe he had not throwne a javelin a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> David, <hi>quickly after at his owne ſon,</hi> Jonathan: <hi>nor had</hi> Saul <hi>after all this ſealed a Commiſſion to an Edomite, to execute the pleaſure of his owne will upon Iſrael. 2. And the evill Spirit ruled in the</hi> Edomite <hi>too, elſe he had not executed</hi> Sauls <hi>Commiſſion to deſtroy a City of Prieſts, man and beaſt there. The Tribes then came-in, not to reſiſt</hi> Saul, <hi>but the perverſe</hi> will <hi>in</hi> Saul, <hi>acted by the</hi> evill Spirit <hi>upon</hi> Saul. <hi>They took up defenſive Armes to withſtand the</hi> notorious violences, <hi>the</hi> aſtings <hi>of</hi> Sauls <hi>and the Edomites</hi> wills <hi>acted by their</hi> evill Spirits: <hi>Theſe outrages, extreame violences, actings of an evill Spirit, Iſrael withſtood then, and no</hi> body <hi>elſe in the world, but as the body was acted by this evill Spirit.</hi>
+            </p>
+            <p>
+               <hi>And this is Iſraels Caſe now, I meane all true Chriſtians in the world. And ſuch is their practiſe, according to Iſraels example in all Ages, by allowance and command alſo of all the Laws in Heaven and Earth. I repeat it again; <g ref="char:V">Ʋ</g>pon the ſame ground from</hi> Scripture <hi>and</hi> Reaſon, <hi>All true Chriſtians now are engaged, as Iſrael then, To</hi> help the Church a<g ref="char:EOLhyphen"/>gainſt the mighty; <hi>To come-in now with ſhield and buckler, To oppoſe and reſiſt with all their might,</hi> Not their King <hi>[no; This reſiſtance has an affi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce, a full agreement rather with duty and loyalty] nor the</hi> Pa<g ref="char:EOLhyphen"/>piſts, <hi>nor the</hi> Athieſts <hi>neither, but that</hi> evill Spirit <hi>in both, The actings, and notorious violences thereof, and of a</hi> private <hi>and perverſe</hi> will <hi>acted thereby, which has done all the miſchiefe, done in the world, ſince the be<g ref="char:EOLhyphen"/>ginning of the ſame, and will do all the hurt there it can while the world ſtands: All true Chriſtians now will maintaine a Reſiſtance againſt the</hi> Actings, <hi>as aforeſaid, of this</hi> will, <hi>which, like the</hi> tongue, <hi>is</hi> a world of iniquity <hi>b,</hi> defileth the whole body; ſetteth on fire the courſe of <note place="margin">Jam. 3. 5, 6.</note> nature, and is ſet on fire of Hell, <hi>(i. e.) of that</hi> evill Spirit, <hi>whoſe Manſion-houſe is Hell, but now he is the great</hi> Peripatetick <hi>of the world, walking to and fro therein, and, by the help of mans</hi> will, <hi>a willing ſer<g ref="char:EOLhyphen"/>vant to him, does all the</hi> violences, inſolencies <hi>and</hi> wrongs <hi>our eyes have ſeen, or our eares have heard have been done in both Kingdomes: Thie</hi> evill Spirit, <hi>this</hi> Will <hi>(call it what you will, if it be not the Devill, yet it Acts his Commands.) This</hi> evill Spirit, <hi>all true Chriſtians will</hi>
+               <pb facs="tcp:118300:3"/> 
+               <hi>oppoſe and reſiſt now; Nay, they have ſolemnly</hi> proteſted <hi>before the</hi> Lord, <hi>That this evill and uncleane Spirit ſhall not rule over them, he ſhall not be king in their world, they will break his bands, and caſt away his cords, they will oppoſe and reſiſt him to the death, and no Body elſe in the world, but as the body is acted and effectually wrought in and upon by this</hi> evill Spirit: <hi>and, if ſo acted, they will reſiſt him or them what ever Bodies they be, though Kings and Princes and Nobles of the Earth: for upon the ſame ground from</hi> Scripture <hi>and</hi> Reaſon, <hi>will they make this re<g ref="char:EOLhyphen"/>ſiſtance, by which they ſtand charged</hi> to obey God, <hi>and</hi> to reſiſt the De<g ref="char:EOLhyphen"/>vill. <hi>And if you finde any other reſiſtance maintained now by men, or books, then againſt the actings and notorious violences of mans private will, acted by that evill Spirit ſo powerfull upon</hi> Saul, <hi>and working as effectually in the</hi> Edomite, <hi>I meane, him or them, who ſay of our</hi> Jeru<g ref="char:EOLhyphen"/>ſalem <hi>now,</hi> Raſe it, raſe it eaven with the ground; <hi>If, I ſay, any other reſiſtance is maintained in thoſe books, then onely onely againſt that Power, which Commands in the Ruler, not by</hi> God, <hi>but againſt Him; then let thoſe books be ſerved, as the King ſerved the</hi> Rowle, <hi>be firſt</hi> cut <hi>it, then</hi> burnt <hi>it; onely</hi> read <hi>the books firſt</hi> c, <hi>which the King did not do, whereas,</hi> 
+               <note place="margin">c Jer. 36. 23.</note> 
+               <hi>which is verily thought, had he read the</hi> Rowle <hi>thorow out firſt, he had not burnt it afterward. I will name the chiefe of theſe books here; That Anſwer to Doctor</hi> Fearn, <hi>and the fuller Anſwer. That of Anti-Turkiſme [Cavalieriſme is too gentile a word, for they are the ſame with the Turks, &amp; more bruitiſh; though Turks (as one writeth) are in the loweſt degree of men, next to bruit Beaſts in the ſhape of Men.] And the ſame Authours Vindication of the ſame Book, againſt a Biſhop in name, who hath in that Vindication, not onely given the Biſhop</hi> a bone to pick, <hi>but choaked him therewith, for he has made the Biſhop and his fellows ſpeech<g ref="char:EOLhyphen"/>leſſe for ever, in point of Reply thereunto. Not ſo onely, he hath burnt this note of</hi> infamy <hi>upon their foreheads,</hi> [gain-ſavers of the Truth, <hi>Nothing for it, but all they can againſt it] more viſible there then is the bone in the throat, which the</hi> Anatomiſts <hi>(too Rabinically) do call</hi> Pomum Adam, <hi>Adams Apple: And let</hi> Scripture <hi>and</hi> Reaſon <hi>be ſerved ſo to, (being firſt read thorow) and that full</hi> Letter, <hi>which has ſo cleared a juſt Cauſe, that the Anſwerer hath not found with all his ſearch, [yet he did his utmoſt, with all his skill, ſtrength, wrath, malice, and what the Devill could help-him into, becauſe he found the Devill his Father there, a moſt notorious lyer, yet he found not] one word of ſenſe to reply unto that</hi> Letter: <hi>But yet let this, and that, and the other, have the ſame execu<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:118300:4"/> aone upon them, as aforeſaid, and as was done upon that abominable and curſed Pamphlet (for we muſt not call it a Book) giving liberty to riot, and dance upon the</hi> Lords Day: <hi>let thoſe Books be burnt by the hand of the common hangman in all the Cities and Townes thorow the whole Kingdome; for ſo ſuch Papers ſhould be ſerved, which give ſuch li<g ref="char:EOLhyphen"/>berty to ſport and play away the</hi> Lords Day: <hi>or a liberty to Subjects to</hi> reſiſt their King. <hi>But if th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe Books (I will call them Books, having for their Patrons,</hi> Truth <hi>and</hi> Reaſon, <hi>and ſuch onely are worthy the name of Books</hi> d) <hi>perſwade obedience to Rulers, ſubmiſſion to that power</hi> God <note place="margin">d Libri <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> nomi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e dignan<g ref="char:EOLhyphen"/>di in veri<g ref="char:EOLhyphen"/>catis tan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um &amp; ra<g ref="char:EOLhyphen"/>tionis cli<g ref="char:EOLhyphen"/>entelam ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dare de<g ref="char:EOLhyphen"/>bent, <hi>Ver. de Aug. l.</hi> 1</note> 
+               <hi>has ſet over them, and reſiſtance onely againſt that</hi> evill Spirit, <hi>the great Monarch of the world, King of the bottomleſſe Pit, working mightily now, and effectually in the Rulers of the world, and in their ſworne ſer<g ref="char:EOLhyphen"/>vants, Iſraels enemies, the</hi> Edomites <hi>there: if a reſiſtance onely of that power in the Rulers not for</hi> God, <hi>but againſt Him, giving full Com<g ref="char:EOLhyphen"/>miſſion to Athieſts, and bloudy Papiſts, to do as the Edomite did againſt</hi> Nob, <hi>and as</hi> Saul <hi>would have done againſt</hi> Keilah; <hi>if ſo, allow the Books, read what they ſay, and heare them out, it is</hi> Scripture <hi>and</hi> Reaſon, <hi>and be ſtubborne and bruitiſh no more, but obey. Shew thy ſelfe a</hi> man, <hi>who wilt never oppoſe ſo reaſonable a charge as this,</hi> Obey thy Soveraigne Lord, Reſiſt the Devill, <hi>and thy</hi> owne will, <hi>the Devils right hand, in the world: Grant ſo much we are agreed, and altogether to fight againſt the Devill, and this perverſe</hi> will, <hi>as long as there is a Spirit of life with<g ref="char:EOLhyphen"/>in us, and a drop of quick bloud at our heart.</hi>
+            </p>
+            <p>
+               <hi>All this is commended to thee, and charged upon thee before</hi> God <hi>the Father, His Son Jeſus Chriſt, His Elect Angels and Men. Therefore do not dare to refuſe nor gain ſay ſuch a ſacred Truth, ſo firmly grounded upon ſacred</hi> Scripture <hi>and</hi> Reaſon <hi>both; Scripture ſpecially now opening it ſelfe unto thee, wherein thou mayeſt, with one caſt of the Eye, Read and Remember</hi> David and all his Afflictions; <hi>The Church and all her enemies. Their deadly perſecutions, contrivances and complottings how to do her miſchiefe: The contrivances and admirable providences of her</hi> Lord God <hi>to do His people good. All this thou ſhalt read here, and at laſt thou ſhalt ſee all the</hi> Tribes <hi>comming in to ſet</hi> David <hi>free from his Adverſaries; and then faſt upon his Throne, (ſo God will deale with His Church now appearing in His glory) for</hi> David <hi>has a Kingdom on earth at laſt. But, O the admirable wayes unto it! Theſe are Gods wayes. He will make</hi> David <hi>Ruler over all His Houſe; he ſhall learne to obey firſt. He ſhall be a good, a mercifull King; he ſhall go thorow ſore temptati<g ref="char:EOLhyphen"/>ons
+<pb facs="tcp:118300:4"/> firſt: He muſt be the higheſt man in the Kingdom, he muſt be the loweſt there firſt: He ſhall have afair houſe, his little houſe muſt be ſmitten and burnt firſt: He ſhall have all in</hi> God, <hi>but all muſt be taken from him firſt: He ſhall live to enjoy a Crowne on Earth in deſpight of Devils and men there, who will perſecute him as they can, even to the</hi> gates of death, <hi>and in their way, caſt ſhame and all manner of reproach upon him firſt:</hi> Da<g ref="char:EOLhyphen"/>vids <hi>way to the Crowne, is the Churches way to her Glory: The very ſame dark-paths, intricacies, and back-wayes in it:</hi> Davids <hi>enemies, the Churches enemies for ever:</hi> Davids God, <hi>the Churches</hi> God <hi>for ever:</hi> Davids <hi>ſecurity, the Churches confidence for ever. Many are the trou<g ref="char:EOLhyphen"/>bles of the righteous, The Lord will deliver them out of all. For who is God, ſave the Lord? or who is a rock, ſave our God? So it comes to paſſe, That the righteous are an everlaſting foundation. Here they will put their truſt for ever. Amen.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118300:5"/>
+            <pb n="1" facs="tcp:118300:5"/>
+            <head>
+               <hi>Englands</hi> Alarm to VVar.</head>
+            <div n="1" type="section">
+               <head>Sect. I.</head>
+               <p>Davids <hi>Story, and</hi> Sauls <hi>perſecution of him briefly related, his ſecret practiſes, and fine contrivances to take away</hi> Davids <hi>life, coloured<g ref="char:EOLhyphen"/>over, and made ſpecious with goodly words, and lovely actions; Re<g ref="char:EOLhyphen"/>lating fully to the words and actions the King, ſeduced by evill Coun<g ref="char:EOLhyphen"/>cell, has ſpoken and done ſeemingly for, but indeed cleare againſt his Parliament ever ſince they ſate, to the time the War broake forth.</hi>
+               </p>
+               <div n="1" type="chapter">
+                  <head>Chap. 1.</head>
+                  <argument>
+                     <p>
+                        <hi>After a ſhort, but righteous Apologie,</hi> Davids <hi>ſtory is Re<g ref="char:EOLhyphen"/>lated;</hi> Sauls <hi>perſecution of him; The cauſe and manner, the ſame with the perſecution now; The heads or parti<g ref="char:EOLhyphen"/>culars of the three Sections.</hi>
+                     </p>
+                  </argument>
+                  <p>
+                     <seg rend="decorInit">T</seg>HE Sword is come-in amongſt us, drinkes blood, eates fleſh: We make no queſtion but <hi>God</hi> has gi<g ref="char:EOLhyphen"/>ven it a Commiſſion, and it cannot be ſtill; And for juſt cauſe all this, even becauſe of His Peoples ſinnes. <hi>Let us lift up our hearts with our hands unto</hi> 
+                     <note place="margin">Lam 3. 41, 42, 44.</note> GOD <hi>in the heavens: We have tranſgreſſed, and rebelled, Thou haſt not pardoned. Thou haſt covered with Anger, and perſecuted us: Thou haſt ſlaine, Thou haſt not pittied Gods</hi> people ſay now, as they ſaid then, and they ſay it heartily. Yet, as <hi>Job</hi> ſaid, ſit<g ref="char:EOLhyphen"/>ting in the duſt, GOD <hi>forbid that I ſhould juſtifie my accuſers: till I die,</hi> 
+                     <note place="margin">Job 27. 5, 6.</note> 
+                     <hi>I will not remove my integrity from me: My Righteouſneſſe I hold faſt, and will not let it goe: My heart ſhall not reproach me ſo long as I live.</hi>
+                     <pb n="2" facs="tcp:118300:6"/> A people ſo blaſphemed, ſo reproached ſay as much now, and are ſo reſolved; Their conſciences bearing them witneſſe, and <hi>Goa</hi> alſo, <hi>That neither againſt the Law, nor againſt their King have they offended. If</hi> 
+                     <note place="margin">Pſal. 11. 3.</note> 
+                     <hi>the foundation be deſtroyed, what can the Righteous doe?</hi> Was <hi>Davids</hi> complaint long agoe, and the Righteous may reſume it, being now as <hi>David</hi> then, the <hi>Butt</hi> and <hi>Marke</hi> at which the wicked bend their Bow, and make ready their arrow, at this day; even againſt <hi>the upright in heart.</hi> And that they may have ſome colour for this their bloody worke, they deale with the righteous now, as <hi>Saul</hi> did with <hi>David</hi> then, and as the <hi>Edomites</hi> did with Chriſtians ever ſince; They put<g ref="char:EOLhyphen"/>over them the skins of the fierceſt beaſts, that ſo the <hi>dogs</hi> might bee the more fierce upon them. Juſt ſo now, the wicked perſecute the righteous with fire and ſword, and they make the world believe they doe all this by the <hi>knowne Lawes</hi> of the Kingdome; for they perſe<g ref="char:EOLhyphen"/>cute none other but the <hi>Incendiaries</hi> of the Kingdome, the only Re<g ref="char:EOLhyphen"/>bels and Traitors there: Well, as <hi>David</hi> ſaid (for I ſhall make his Caſe run paralell with ours all along, he is the Emblem of the Church to this day, and will be to the worlds end) The <hi>Righteous know not what to doe,</hi> but their <hi>Lord</hi> knowes, whoſe Throne is in heaven, whoſe eyes behold and try the children of men. To Him they commit their righteous Cauſe, and yet they muſt not be ſilent, hearing themſelves charged with rebellion, and treaſon, as heavy a charge every whit as <hi>Hereſie</hi> is: They will take the ſame liberty, which is granted to Church-robbers, Traytors, yea, and Sorcerers too; all theſe, ſaith <hi>Lactantius</hi> b, are permitted to ſpeak for themſelves and to ſpeake all <note place="margin">b <hi>Sacrileg is &amp; prodito<g ref="char:EOLhyphen"/>ribus &amp; ve<g ref="char:EOLhyphen"/>neficis, l. 5. Cap.</hi> 1.</note> they have to ſay for themſelves, before judgement paſſeth upon them. Indeed the greateſt reaſon, that ſo they ſhould doe, for ſo their crimes will be manifeſt, or their righteouſneſſe will be cleared as the noone day. There were ſtrange crimes (yet I ſhould not ſay ſo, be<g ref="char:EOLhyphen"/>ing but after the manner and practiſe of the wicked in all times up<g ref="char:EOLhyphen"/>wards to this day) horrid crimes charged upon <hi>Paul,</hi> and they con<g ref="char:EOLhyphen"/>cluded againſt him before he was heard, <hi>That Paul ought not to live any longer,</hi> and ſo they ſpake before <hi>Feſtus;</hi> who having examined <note place="margin">Act. 25. 24</note> the matter very fully, profeſſed as heartily, That he found <hi>many and grievous complaints</hi> againſt <hi>Paul,</hi> but nothing proved, no, nothing at all: notwithſtanding his adverſaries, a multitude of them, importune me, ſaid he, very much to write his inditement to my <hi>Lord Auguſtus;</hi> And, as I am an honeſt man, though I have their clamours againſt
+<pb n="3" facs="tcp:118300:6"/> him once and againe, yet I have not one word for certainty to write unto my Lord; Therefore hither I have brought him eſpecially un<g ref="char:EOLhyphen"/>to thee, O King <hi>Agrippa,</hi> that, after thou haſt ſearched out the whole matter, I might gather ſomething whereof to write; for it ſeemeth <hi>unreaſonable to ſend a Priſoner,</hi> and not withall <hi>to ſignifie the crimes laid againſt him. Feſtus</hi> ſpake like an honeſt man indeed, He will under<g ref="char:EOLhyphen"/>ſtand the cauſe before he indites his Letter, or the priſoner before <hi>Auguſtus.</hi> And <hi>Agrippa</hi> ſpeakes as honeſtly too, <hi>Paul, Thou a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t per<g ref="char:EOLhyphen"/>mitted to ſpeake for thy ſelfe.</hi> The ſervants of the <hi>Lord</hi> deſire no more favour then <hi>Paul</hi> has from an Heathen King. Let their crimes, ſo ma<g ref="char:EOLhyphen"/>ny and grievous, be fairely examined: and if any one crime be proved againſt them, let them ſuffer as evill doers for all ſuggeſted againſt them. But we are ſure they can cleare themſelves, and their upright dealing as the noone day, even as <hi>Paul</hi> did then, and as <hi>David</hi> be<g ref="char:EOLhyphen"/>fore him: And becauſe <hi>Davids</hi> hiſtory is theirs now, we may reade the Churches ſtory now, in <hi>Davids</hi> ſtory then: I will reade <hi>Davids</hi> ſtory quite through from point to point, that we may ſee anon, how paralell the lines thereof run-up to the Churches ſtory now.</p>
+                  <p>
+                     <hi>Davids</hi> ſtory begins like a Comedy, with a marriage, but quickly there is a turning of the <hi>Scene,</hi> proves a Tragedy, and ends in blood. <hi>David</hi> was envyed by <hi>Saul,</hi> for two Reaſons:</p>
+                  <p>1. Becauſe he had wrought ſalvation for Iſrael, ſlaying <hi>Goliah</hi> the Philiſtine with his owne Sword.</p>
+                  <p>2. And, becauſe the Kingdome muſt be eſtabliſhed in <hi>Davids</hi> houſe, and <hi>Saul knew it,</hi> therefore he envied <hi>David,</hi> and purſued him <note place="margin">1 Sam. 23. 17</note> to the death: but becauſe bloody intentions have no pleaſant appea<g ref="char:EOLhyphen"/>rance, <hi>Saul</hi> vailed them over with ſugered words, and lovely acti<g ref="char:EOLhyphen"/>ons, he cauſeth many love-tokens to paſſe betwixt himſelfe and <hi>Da<g ref="char:EOLhyphen"/>vid:</hi> as if he purpoſed not only to affiance his daughter to <hi>David,</hi> but marry himſelfe unto him too. See the <hi>depths</hi> of Sathan, that evill ſpirit, who wrought ſo effectually upon <hi>Saul!</hi> All his words and a<g ref="char:EOLhyphen"/>ctions were as ſoft and ſmooth as Oyle and Butter, but inwardly <hi>drawne ſwords,</hi> to ſlay <hi>David</hi> therewith. But the people remote from the Court, I ſay remote from the Court (for Iſrael in and about the Court knew very well, that <hi>Saul</hi> hated <hi>David,</hi> and would have nailed his head and the wall together twiſe, and once he would have ſerved his Son <hi>Jonathan</hi> ſo too, for being a friend to <hi>David:</hi> Therefore, I ſay, Iſrael remote from the Court) were wholly taken with things in
+<pb n="4" facs="tcp:118300:7"/> appearance, and ſo judged of <hi>Saul</hi> and <hi>David,</hi> and of their actions: ſo as, if one of the two were too blame, <hi>David</hi> was he. And theſe co<g ref="char:EOLhyphen"/>lourable pretences ſtood <hi>Saul</hi> in ſome ſtead, to vaile the peoples eyes, for ſome time, and not long; for wicked and malicious inten<g ref="char:EOLhyphen"/>tions will work-out, and diſcover themſelves, as five will, and light will, they will not be hid. <hi>Saul</hi> plots againſt the righteous, layes a ſnate here, and there a ſnare for <hi>Davids</hi> ſoul: The Righteous <hi>God</hi> diſ<g ref="char:EOLhyphen"/>covers all, and breaks the ſnare, which enrageth <hi>Saul</hi> yet more, the <hi>evill Spirit</hi> taking advantage thereby. And now <hi>Saul</hi> purſues <hi>David</hi> with open a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, and ſword in hand, up to <hi>Naioth</hi> in <hi>Ramah,</hi> and from thence to <hi>Nob.</hi> There he enters his foot firſt into bloud, and goes up to the knees therein quickly, for he takes an <hi>Edomite</hi> to his ſide, gives him a Commiſſion, uſeth him as his right hand, &amp; preſently he (with other <hi>Edomites</hi> with him, for we cannot imagine that one ſhould do that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xecution alone) ſmites a <hi>City of Prieſts,</hi> ſlayes men, women, and ſucklings there, and beaſt alſo: Where I ſhall note, That all this is done by the <hi>knowne Lawes</hi> of the Kingdome, for the <hi>Edomite</hi> accuſeth the Prieſt, <hi>Saul</hi> gives the Prieſt leave to anſwer for him<g ref="char:EOLhyphen"/>ſelfe, then execution is done according to the <hi>knowne Law,</hi> which <hi>Saul</hi> and the <hi>Edomite</hi> have enacted. We ſhall enquire farther into theſe matters, when I ſhall handle them in order, why <hi>Saul</hi> takes the <hi>Edomite</hi> to his ſide, gave him a Commiſſion, being a knowne adver<g ref="char:EOLhyphen"/>ſary to Iſ ael, whereof I ſhall give a better account anon. And then, though we are concluded, <hi>That the Lord is righteous,</hi> and His Judge<g ref="char:EOLhyphen"/>ments are <hi>as the great deepe:</hi> yet I ſhall ſearch into them, and finde<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> reaſon enough to ſatisfie us, why the <hi>Lord</hi> ſuffers the <hi>Edomite</hi> to make ſuch a ſlaughter in Iſraels <hi>Land,</hi> and His owne Kingdome: To do execution according to their <hi>wills,</hi> upon thoſe, who did their du<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, by direction from <hi>Gods</hi> mouth: We ſhall ſee reaſon for all this, though God needs not give account of His matters, yet we ſhall ſee, ſo He is pleaſed to do.</p>
+                  <p>And now <hi>Davids</hi> Hiſtory proves Tragicall indeed. The Prieſts are ſlaine, and <hi>David</hi> is ſtrucken-at thorow the prieſts ſides: he ſees <hi>Sauls</hi> ſword now, and againſt whom it was pointed. So away he flies, and to <hi>Keilah</hi> he comes in all haſte, expecting relief there; for he had done the inhabitants ſuch a piece of ſervice, as was very notable &amp; would have engaged them to <hi>David</hi> for ever, had they been honeſt men. But <hi>Keilites</hi> cannot conſider what <hi>David</hi> had done for them,
+<pb n="5" facs="tcp:118300:7"/> they ponder not the kindneſſe of <hi>God</hi> towards them, nor mans kind<g ref="char:EOLhyphen"/>neſſe neither. And now <hi>David,</hi> having a ſtrong hold over his head, is reſolved therein to defend himſelfe; but the <hi>Keilites</hi> proved treacherous, they (after their manner) will betray <hi>David,</hi> and he is warned thereof, (for <hi>a mighty Councellour</hi> was with <hi>David</hi> whereſoe<g ref="char:EOLhyphen"/>ver he went) and away he went from <hi>Keilah</hi> to a <hi>mountaine in the wil<g ref="char:EOLhyphen"/>derneſſe of Ziph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Saul</hi> purſues his way, and bloudy intentions, and after he goes, for he <hi>ſought David every day:</hi> but it followes, <hi>(God</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> 
+                     <hi>delivered him not into his hands.)</hi> The <hi>Keilites</hi> would have done it, ſo would the <hi>Ziphites</hi> too, theſe would have delivered up <hi>David</hi> into <hi>Sauls</hi> hands; yea, but <hi>God</hi> would not do it, and His is the overruling Hand: Theſe adverſaries ſhall but ſhew themſelves ſo, ſhew their teeth unto <hi>David,</hi> diſcover their treacherous hearts againſt him, that is all they ſhall do, more they would do, but they cannot. Therefore <note place="margin">Pſal. 54.</note> 
+                     <hi>David</hi> makes a Pſalme of praiſe to his <hi>God,</hi> for that deliverance. Here a great queſtion will be propoſed anon, (I do but give the heads here) why the <hi>Tribes</hi> came-not-in all this while, now they ſaw what was done to <hi>Nob,</hi> what was offered to be done to <hi>Keilah;</hi> and ſaw the ſword was pointed directly to <hi>Davids</hi> throat; why yet the <hi>Tribes</hi> came-not-in? Some will Anſwer, Conſcience withheld them; had they come-in to help <hi>David,</hi> they had reſiſted their King: I ſhall cleare the contrary in the third Section, for it is the chiefe purpoſe thereof. Other conceits there are, I will paſſe them over in this place. This is certaine: Things were not ripe yet, nor yet <hi>Gods</hi> time; <hi>Davids</hi> ſtraits muſt be yet greater then they were at <hi>Nob,</hi> or when he was at <hi>Keilah:</hi> and and there muſt be farther diſcove<g ref="char:EOLhyphen"/>ries yet, of <hi>Gods</hi> right hand with <hi>David,</hi> and of his adverſaries a<g ref="char:EOLhyphen"/>gainſt him: whereof towards the cloſe of the Work. <hi>Saul</hi> purſues <hi>David</hi> ſtill <hi>thorow all the Thouſands of Judah</hi> 
+                     <note n="d" place="margin">1 Sam. 23. 23.</note>; [malice will draw bloud, but it cannot, yet will purſue to the death] he and his men have cooped-up <hi>David</hi> and his men, for they have <hi>compaſſed David round about.</hi> Then <hi>God</hi> wrought wonderfully for <hi>David,</hi> as His <hi>Name</hi> is, and His <hi>Manner,</hi> and the <hi>Earth</hi> muſt help <hi>David;</hi> [A Droſſie earthy people ſhall help <hi>David,</hi> ſhall work for his deliverance, though enemies to him.] And though <hi>Saul</hi> has <hi>David</hi> as a prey in his hand, yet the <hi>Lord</hi> ſets up <hi>a Rock of ſeparation</hi> betwixt <hi>David</hi> and <hi>Saul: David</hi> is almoſt under <hi>Sauls</hi> noſe, within the reach of his ſpeare, and yet <hi>ſaul</hi> cannot reach him: O wonderfull! It is ſo indeed, <hi>therefore</hi> 
+                     <note place="margin">1 Sam. 23. 28.</note> 
+                     <hi>they called the place</hi> Sela-Hammahlekoth e, <hi>as at this day.</hi>
+                  </p>
+                  <pb n="6" facs="tcp:118300:8"/>
+                  <p>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> takes no notice of this, no not of <hi>Davids Rock</hi> in his way; he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>David</hi> ſtill, and he pops-into a <hi>Cave?</hi> all alone, where <hi>David, and all <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n were,</hi> [the man ſhall run ſtrange adventures that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>David,</hi> and may eſcape once and again: but beware the third <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, he that purſues <hi>David</hi> may fall into the Philiſtines hands a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on, as <hi>Saul</hi> did.] Note againe, how various and changeable mat<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rs are in the c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ying-on of <hi>Davids</hi> Wars. <hi>Saul</hi> had <hi>David</hi> in a coop <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e other day, now <hi>David</hi> has <hi>Saul</hi> at the ſame advantage. It was ſo, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> will be ſo in <hi>Davids</hi> wars ever more. Then <hi>Saul</hi> had the advan<g ref="char:EOLhyphen"/>tage, now <hi>David; Down</hi> and <hi>up, <g ref="char:V">Ʋ</g>p</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd <hi>down:</hi> But the advantage i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſhall on <hi>Davids</hi>-ſide, whether he <hi>riſe</hi> or <hi>fall,</hi> for he is inſtructed. To make advantage of his <hi>falls, Saul</hi> cannot of his <hi>riſings;</hi> Either he ſhall not ſee his advantage, or ſhall make no advantage thereof at all. <hi>David</hi> ſhall ſee his advantages, and make uſe of them for glorious ends, and towards <hi>Saul,</hi> to cleare his innocencie as the noone day. For now it ſhall appeare to all Iſrael, and to <hi>Saul</hi> himſelfe, That <hi>Da<g ref="char:EOLhyphen"/>vid</hi> is a man after <hi>Gods owne heart,</hi> (and will ſhew him the kindneſſe of the <hi>Lord:)</hi> And that <hi>Saul</hi> is miſ-informed, and all his Courtiers are liers all; Now <hi>Saul</hi> and <hi>David</hi> are come to a Parley, and <hi>David</hi> is heard to ſpeake for himſelfe, he can ſpeak with ſuch evidence of Truth, that the quarrell had now ended, (for the <hi>evill Spirit</hi> in <hi>Saul</hi> ſeemes to be quite ſilenced (for a ſhort time) and <hi>Saul</hi> himſelfe ſo fully convinced concerning <hi>Davids</hi> uprightneſſe, as that he ſeems to <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Sam. 24. 16.</note> melt into tears, nay it is ſo indeed, he wept heartily:) but that the <hi>evill Spirit</hi> moves in <hi>Saul</hi> againe and the <hi>Ziphites,</hi> a miſchievous genera<g ref="char:EOLhyphen"/>tion, <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Sam. 26.</note> and enemies to Peace, did egge-on, and drive <hi>Saul</hi> to purſue <hi>David</hi> againe [ſee what he Devill will do, and theſe <hi>Ziphites</hi> as e<g ref="char:EOLhyphen"/>vill as he, and as like him, as the children are like the father] theſe hurry <hi>Saul</hi>-onward, and after <hi>David</hi> he runs (for the Devill drives him) having <hi>three thouſand choſen men of Iſrael with him.</hi> A marvel<g ref="char:EOLhyphen"/>lous <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Sam. 24. 2.</note> thing! That thouſand choſen men of Iſrael with him! And yet I ſhall make it no marvell at all anon; for if a King will fall deſpe<g ref="char:EOLhyphen"/>rately upon his owne ſword, there is another will do as deſperately as the King does, <hi>fall upon it too.</hi> It is no marvell at all, That <hi>Saul</hi> 
+                     <note place="margin">1 Sam. 31. 5. 6.</note> hath three thouſand choſen men with him: But this is the wonder, That, after ſuch a conviction, as we read before, he ſhould yet, with ſuch a company, ſeek <hi>David to ſlay him.</hi> But that is no wonder nei<g ref="char:EOLhyphen"/>ther: The <hi>evill Spirit</hi> is with him, and the <hi>Ziphites</hi> his Councellours: Theſe will drive-on <hi>Saul</hi> furiouſly, but <hi>David</hi> ſhall ſee whereto they
+<pb n="7" facs="tcp:118300:8"/> drive; for he has his <note n="b" place="margin">1 Sam. 26. 4.</note> 
+                     <hi>ſpies</hi> abroad, and they tell <hi>David</hi> where <hi>Saul</hi> is; and thither he goes, as bold as a Lion (for his Cauſe was good, and though it was ſtormy without, yet alwayes cleare within) he came to the place where <hi>Saul had pitched,</hi> beheld it well, and there went downe, he with two more, even to <hi>Sauls</hi> Campe by night, and there they found <hi>Saul</hi> aſleepe, <hi>and all</hi> his <hi>people round about him ſleeping too; (God</hi> would have it ſo.) Then ſaid <hi>Abiſhai</hi> to <hi>David, Let me ſmite thine enemy once;</hi> one blow ſhall do the deed, there ſhall not need a ſecond to deſtroy him: No, ſayes <hi>David;</hi> (and obſerve what he ſayes) <hi>The Lord forbid</hi> that I ſhould ſtretch forth my hand againſt the <hi>Lords</hi> Anointed, ſuffering thee to take away <hi>Sauls</hi> head; but take <hi>away his ſpeare, &amp;c.</hi> and ſo they did, then <hi>gat them away, and no man awaked, for a deep ſleep from the Lord was fallen upon th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m.</hi> [The Lord will finde out a way to cleare <hi>Davids</hi> innocencie as the noone day] <hi>David</hi> was no ſooner gon, but he calls out to <hi>Abner,</hi> Captaine of <hi>Sauls</hi> guard, reproves his negligence above many, bids him behold the ſpeare, &amp;c. which ſtuck ſo neare his Maſters pillow, his Maſters <note place="margin">Verſe 16.</note> head was in the ſame danger, and <hi>Abner</hi> aſleep the while! When <hi>Saul</hi> heard that, (for it could be no mans voice but <hi>Davids)</hi> his heart ſeemes (and in his owne apprehenſion) to cloſe with <hi>David</hi> now. Obſerve what <hi>Saul</hi> ſayes, and what <hi>David</hi> replyes, for now they are <note place="margin">Verſ. 21.</note> as their laſt Conference. Matters are fairly debated, and concluded betwixt them, even with a bleſſing from <hi>Sauls</hi> mouth: Then <hi>Saul</hi> 
+                     <note place="margin">Verſ. 25.</note> 
+                     <hi>returned to his place:</hi> But <hi>Saul</hi> was reſolutely bent to oppoſe <hi>Gods</hi> decree, touching the ſetting of the Crowne upon <hi>Davids</hi> head, there<g ref="char:EOLhyphen"/>fore <note place="margin">Suſpectum ſemper in<g ref="char:EOLhyphen"/>viſum que domi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>anti b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, qui, pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>xim <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s de<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>inar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tur, Iac. H<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. 1. lib. 1. cap. 7.</note> he envied <hi>David;</hi> and the <hi>evill Spirit</hi> wrought effectually upon that advantage: ſo as <hi>David</hi> did not truſt <hi>Saul,</hi> nor regarded his words, for indeed bloudy thoughts lodged within him ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill; nor was he <hi>ſui juris,</hi> but of the poſſeſſion of himſelfe quite: The <hi>Keilites</hi> had a part in him, the <hi>Ziphites</hi> alſo, and the <hi>evill Spirit</hi> divided <hi>Saul</hi> betwixt them, they have him in their power, and drive him as they will, and ſo <hi>David</hi> will truſt none of them all: Nay they prevailed ſo, That <hi>David</hi> diſtruſted <hi>God</hi> a little, and ſo away <hi>David</hi> runs to <hi>Gath,</hi> and when <hi>Saul</hi> heard that <hi>he ſought no more after him,</hi> ſayes the Text <note n="c" place="margin">1 Sam. 27. 4.</note>, intimating no leſſe then this; That <hi>Saul</hi> would have purſued him ſtill, but that he was out of <hi>Sauls</hi> reach. About this very time the Tribes came-in, when all was cleare before them touching <hi>Sauls im<g ref="char:EOLhyphen"/>placableneſſe,</hi> and ſtubborne reſolution; touching <hi>Davids</hi> upright<g ref="char:EOLhyphen"/>neſſe, &amp; the treachery of <hi>Davids</hi> friends, then the Tribes came-in, after
+<pb n="8" facs="tcp:118300:9"/> they ſaw all faire wayes had beene uſed to incline <hi>Saul,</hi> to hold him back from ſhedding bloud, after they had <hi>prayed</hi> and <hi>faſted</hi> too; for this I muſt make good alſo. Then the Tribes came-in with ſhield and buckler, as we read. And ſo we have a briefe relation of <hi>Davids</hi> Story, and <hi>Sauls</hi> perſecution, which will relate clearly and fully anon, the Hiſtory of our time. I ſhall not do as the <hi>wiſe Judges</hi> did, in a <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </note> Caſe, wherein it was hard, and dangerous to give righteous Judge<g ref="char:EOLhyphen"/>ment, They bad the Parties come and appeare before them a <hi>hundred <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> years</hi> after. I cannot do ſo now: As I ſhall relate an ancient Hiſtory, ſo I muſt declare how it relates to theſe preſent times: for in ſetting downe <hi>Davids</hi> Story, and <hi>Sauls</hi> perſecution of him, I muſt needs ſet downe the ſtory of theſe dayes fully, and wholy, for no <hi>Chronicle</hi> in the world gives us the like ſtory, ſo paralell with the Churches ſtory now, and affaires of theſe dayes: For example, A King, the chiefe Actor then, a King the chiefe Actor now; Perſecuting <hi>David</hi> then, perſecuting his owne ſubjects now: All under colourable pretences then, the ſame pretences and ſhewes now. The delivering up of the <hi>ſword</hi> into <hi>Davids</hi> hand was the pretence (and no more) of the quar<g ref="char:EOLhyphen"/>rell then; the ſame pretence now. <hi>Saul</hi> takes an <hi>Edomite</hi> to his ſide, and gives reaſon for ſo doing then; The King takes <hi>Edomites</hi> (for they ſay of our Jeruſalem, as aforeſaid) into his boſome, and gives the ſame reaſon for ſo doing now. The <hi>Edomite</hi> informeth againſt the faithfull ſervants of the <hi>Lord</hi> then; ſo they do now, but with much more fore-head, and leſſe ſhame now than then, as will appeare. The King impeached the ſervant of the <hi>Lord</hi> then, ſo the King does now. The ſervant of the <hi>Lord</hi> made anſwer to his Maſter, the cleareſt that ever was read: The ſervants of the <hi>Lord</hi> do render as full and fair accompt of all their actions now. Notwithſtanding, the king gives a Commiſſion to the <hi>Edomite</hi> to ſmite all the Prieſts, becauſe one had done his duty then: The King gives the <hi>Edomites</hi> the very ſame Commiſſion now. And ſo a City was ſmitten and burnt with fire then: Cities and Townes, yea, two Kingdomes, are ſmitten and burnt with fire now. And yet the Tribes come-not-in, no, not yet: Why? I will tell you the reaſon for that in due time. They did come-in then to help <hi>David;</hi> And all true Iſrael will come-in anon to help the Church (that we are ſure of) in obedience to <hi>God,</hi> and in defiance of the Devill, ſo ſoone as the Kings intentions ſhall be yet more clearly manifeſted: our <hi>Edomites</hi> ſins ſhall be full: Iſrael ſhall ſufficiently groane under ſuch Task-Maſters, crying unto God
+<pb n="9" facs="tcp:118300:9"/> againſt them, &amp;c. when the Edomites bloudy intentions ſhall be yet more fully manifeſt; and when the treachery of the <hi>Keilites</hi> and <hi>Zi<g ref="char:EOLhyphen"/>phites</hi> (for ſuch we have amongſt us) ſhall be yet more fully diſcove<g ref="char:EOLhyphen"/>red to the world; and when by all this Iſraels <hi>ſins ſhall be purged,</hi> their hearts prepared, their ſtrong holds, forts and breſt works (vaine confidences meant thereby) are deſtroyed, all and every one, then Iſraels deliverance comes carried on, as upon Eagles wings; when Iſrael is very low, in <hi>Davids</hi> Caſe, their <hi>Ziglags</hi> ſmitten (all vaine con<g ref="char:EOLhyphen"/>fidences) their comforts taken thence, and they have ſtreng<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ened their hand in God: Then as all Iſrael once came in to help <hi>David,</hi> ſo will all true Chriſtians now joyne hand and ſhoulder, and heart to<g ref="char:EOLhyphen"/>gether to help the Church: but of this in the laſt place.</p>
+                  <p>All along, for I am entering into the particulars of the Story, we ſhall read words and actions then, words and actions now, anſwering each other, as face in water anſwers f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce: Then how heart an<g ref="char:EOLhyphen"/>ſwers heart, the world will judge whether we will or no. I muſt ob<g ref="char:EOLhyphen"/>ſerve <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ſtori<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> qui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> falſi aud<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e q<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ri <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> au<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Ora<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> the Law of Hiſtory: <q>I muſt not be ſo impudent as to ſpeak what is falſe: nor muſt I be ſo bold as to conceale the truth:</q> Spe<g ref="char:EOLhyphen"/>cially being perſwaded that the ſpeaking out the truth now in ſuch a Caſe as this, may prevail with the Reader now, more then if one came to him from the dead. Again, this comforts me all along in the things done then and now, which run up ſo paralell each with other, that yet I hope, the deſtruction of the Kings houſe now, will not anſwer the deſtruction then to <hi>Saul,</hi> and his houſe. It is true<g ref="char:punc">▪</g> Never any man from that day to this houre, perſecu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed <hi>David</hi> and proſpered. <note place="margin">Compare it 1 Sam. 18. 17. with 31. 3.</note> And very notable it is, That <hi>Saul</hi> was wounded with thoſe inſtru<g ref="char:EOLhyphen"/>ments of death in the enemies <hi>hand,</hi> wherewith he would have had <hi>David</hi> to have been wounded; and he periſhed by the very <hi>ſword,</hi> which he would have made drunk with bloud in <hi>Davids</hi> bowels: <note place="margin">1 Sam. 31. 4.</note> Nor was this all, he would have deſtro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed <hi>David,</hi> that the Kingdom might not be eſtabliſhed in <hi>Davids</hi> houſe; and he ſlew all the Prieſts for <hi>Davids</hi> ſake, and ſo he ruined himſelfe and his whole houſe; for <note place="margin">1 Chron 10. 16.</note> 
+                     <hi>Saul died and his three ſons,</hi> and <hi>all his houſe died together:</hi> from ſuch a deſtruction the <hi>Lord</hi> deliver the King and his Kingdome: And we hope the Lord will do it, though the Kings hand (now in the hands of bloudy and pernicious men) is as rough now; his intentions a<g ref="char:EOLhyphen"/>gainſt the Church now, are as bloudy now, and as manifeſtly ſo, as <hi>Sauls</hi> were againſt <hi>David;</hi> yet we hope the deſtruction will not be
+<pb n="10" facs="tcp:118300:10"/> ſuch, though <hi>God</hi> is the ſame, and the Church as deare to him now, as <hi>David</hi> was then. We have onely this thred (a weak ſupport) to beare up our hope herein. That we read not, <hi>Saul</hi> had any one Pro<g ref="char:EOLhyphen"/>phet, nor any good man (ſo much as is in ſhew) with him, who ju<g ref="char:EOLhyphen"/>ſtified his way of perſecution againſt <hi>David.</hi> But the King is in the Schole of the Prophets, has thoſe by him eminently knowne all over the Chriſtian world, for Learning and Piety, who (if we be<g ref="char:EOLhyphen"/>leeve hereſay, I beleeve it not) do juſtifie the Kings <hi>way,</hi> ſaying of it, It is <hi>the right way, and according to the Scriptures:</hi> and they who are againſt that way, do turne head againſt the Scripture of <hi>God,</hi> the 13. to the <hi>Romans,</hi> touching that matter. This may be ſome inducement to the King, to proſecute this <hi>ſtubborne way,</hi> having ſuch perſons ap<g ref="char:EOLhyphen"/>proving his doings; The greater their ſin (if they do ſo by conniving at it, or not contending againſt it with all their might) But it may render the King more excuſable, <hi>a tanto,</hi> then <hi>Saul</hi> was. I will give a full and faire accompt of this <hi>way</hi> of perſecution, all the turnings and windings in it, as <hi>Saul</hi> followed-on againſt <hi>David;</hi> And we ſhall ſee how it runs-up all along with the <hi>way</hi> of perſecution now: And if this <hi>way</hi> prove it ſelfe according to the Rule and Line of the <hi>Word,</hi> in any one degree or ſtep of it: If it hath any agreement with <hi>Peace, Righteouſneſſe</hi> and <hi>Holineſſe,</hi> then all the true Iſrael of <hi>God</hi> are utterly unacquainted with the good <hi>Word</hi> of <hi>God,</hi> and have erred concern<g ref="char:EOLhyphen"/>ing the <hi>way</hi> of <hi>Holineſſe,</hi> from the beginning of the world upward, un<g ref="char:EOLhyphen"/>to this day. I will examine and ponder the <hi>Kings way,</hi> what it was anciently, and what it is now, the ſeverall ſteps and motions therein; beginning with the firſt ſtep, as followes.</p>
+               </div>
+               <div n="2" type="chapter">
+                  <pb n="11" facs="tcp:118300:10"/>
+                  <head>Chap. 2.</head>
+                  <argument>
+                     <p>Sauls <hi>bloudy intentions to</hi> David <hi>varniſhed over with faire Words, and lovely Actions. Theſe are compared with</hi> Words <hi>and</hi> Actions <hi>now: And ſo all the moſt Remark<g ref="char:EOLhyphen"/>able Paſſages and Acts of Grace, which paſſed between the King and Parliament ſince they ſate, till the War brake<g ref="char:EOLhyphen"/>forth, are Recorded, and Weighed, but found Light.</hi>
+                     </p>
+                  </argument>
+                  <p>PEace is in <hi>Sauls</hi> tongue, War is in his heart; There he conceived miſchiefe, but yet, that he might not make his wicked thoughts legible to all Iſrael; that they might not break-out at his mouth, nor at his fingers end, (as they have done before a few in the Court) he vailed the peoples eyes by meanes we ſhall fully underſtand by and by. He perſecutes <hi>David</hi> with his tongue, and hand too, but ſo pri<g ref="char:EOLhyphen"/>va<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ely and cunningly, that the people, remote from the Court, could read no ſuch thing, but that <hi>Sauls</hi> tongue was for <hi>David,</hi> and his hand too. Nor would they en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aine a thought that <hi>Saul,</hi> the <hi>chiefe Maſter</hi> and <hi>Diſpencer of Juſtice.</hi> would do unjuſtly. True indeed it was, That <hi>Saul</hi> had almoſt <hi>(tantum non)</hi> pinned or nailed <hi>Davids</hi> head and the wall together; <hi>Saul ſought to ſmite David even to the wall with his javeline</hi> 
+                     <note n="a" place="margin">1 Sam. 19. 10.</note>: And it was ſo violent and ſudden (for it was by the Devils motion) that <hi>David</hi> had no more time then to <note n="b" place="margin">1 Sam. 18. 10.</note> 
+                     <hi>ſlip</hi> a<g ref="char:EOLhyphen"/>way and avoid the place, <hi>ſo the javeline was ſmote into the wall:</hi> And though this was <hi>twice,</hi> yet this was knowne in the Court onely, perhaps to ſome dwellers hard by.</p>
+                  <p>It is as true alſo, and as cleare every whit in the ſacred Text (but the people inquire not into that, not what is written, not they) That an <hi>evill Spirit from God</hi> 
+                     <note n="c" place="margin">1 Sam. 18. 10.</note> came upon <hi>Saul,</hi> and that is reported <hi>twice</hi> too; And this <hi>evill Spirit</hi> was ſo active in <hi>Saul,</hi> That, whereas he might have reſted and ſlept quietly in his owne houſe, he runs about <hi>(tanquam oſtro percitus)</hi> from place to place, (for he muſt run whom the Devill drives) and is reſtleſſe in the purſuit of <hi>Davids</hi> ſoule; ſo as <hi>Saul</hi> might ſay, and others alſo, and all ſay truly, and the people
+<pb n="12" facs="tcp:118300:11"/> might beleeve it too; <hi>That Saul did not go away from his Court,</hi> but <hi>was d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>n away;</hi> he was indeed, for an <hi>evill Spirit</hi> did <hi>drive</hi> him, which is clearly written: But I ſay, the people obſerve none of that, No<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> could they heare what good <hi>Jonathan</hi> ſpake of <hi>David</hi> unto <hi>Saul</hi> his fa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>er, <hi>Davids works have been to-thee-ward very good;</hi> he did ſo, and ſo, <hi>and ſo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ronght a great ſalvation for all Iſrael; wherefore then wilt thou ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> againſt innocent blood, to ſlay David without a cauſe</hi> 
+                     <note n="d" place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 4. 5.</note>; The people, A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l Iſr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>el, remote from the Court, heard none of all this; they heard what a ſalvation <hi>David</hi> had wrought, and they might think, as <hi>Jonathan</hi> did, judging his fathers ſpirit by his owne, that <hi>Saul</hi> ſeeing that ſalvation did rejoyce, <hi>thou ſaweſt it, and didſt rejoyce,</hi> 
+                     <note place="margin">Verſe 5.</note> ſaid <hi>Jonathan:</hi> ſo the people might think too; and that <hi>David</hi> was in all the blame, and <hi>Saul</hi> in none at all; That <hi>David</hi> had done ſome great matter againſt <hi>Saul,</hi> becauſe <hi>Saul</hi> did ſo perſecute him, ſo the people may think; and the people might very well be ſo deluded, for <hi>Saul</hi> did cover his malice with faire words, <hi>as a potſheard may be covered with ſilver droſſe</hi> 
+                     <note n="e" place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. 26. 23</note>; go and tell <hi>David</hi> from me, ſaid <hi>Saul; The King hath delight in thee, and all his ſervants love thee</hi> 
+                     <note n="f" place="margin">1 Sam. 18. 22.</note>. Nor could there be greater ſhews, nor more lively expreſſions, then were in <hi>Saul</hi> towards <hi>David;</hi> nor were his ſhews greater then were the reali<g ref="char:EOLhyphen"/>ty of his actions, as the people muſt underſtand them; We do ac<g ref="char:EOLhyphen"/>couut Acts of meere Right and Juſtice, to be Acts of <hi>moſt tranſcen<g ref="char:EOLhyphen"/>dent Grace;</hi> (and ſo we can flatter) but indeed the Acts of <hi>Saul</hi> to<g ref="char:EOLhyphen"/>wards <hi>David,</hi> could ſeeme no otherwiſe then Acts of <hi>moſt tranſcen<g ref="char:EOLhyphen"/>dent Grace,</hi> and that was the account that <hi>David</hi> himſelfe made of them; he was ſued unto <hi>twice</hi> to be the Kings Son-in-law, and <hi>Da<g ref="char:EOLhyphen"/>vid</hi> was exceedingly taken with it, <hi>ſeemeth it to you a light thing to be a</hi> 
+                     <note place="margin">Verſe 23.</note> 
+                     <hi>Kings Son in-Law, ſeeing that I am but a pore man and lightly eſtee<g ref="char:EOLhyphen"/>med?</hi> It made <hi>David</hi> quite forget that unkingly act of throwing the javelin at him; And the people muſt needs be taken as much with it alſo, ſeeing a poore ſhepherd matched to a Kings Daughter, for the people could not tell what <hi>Saul</hi> had ſaid in his <hi>heart, I will give him</hi> 
+                     <note place="margin">Verſe 21.</note> 
+                     <hi>her, that ſhe may be a ſnare unto him, and that the hand of the Philiſtines may be againſt him:</hi> [Note it by the way, That this very ſnare where<g ref="char:EOLhyphen"/>with <hi>Saul</hi> intended to catch <hi>David,</hi> took <hi>Saul</hi> himſelfe, as we may read, 1 <hi>Sam.</hi> 31. 3. It is ominous, and a point of deſperate folly, to lay a ſnare for <hi>David]</hi> But this ſnare was contrived in the Court, and that which was ſaid, was ſaid <hi>in the heart,</hi> whoſe language the
+<pb n="13" facs="tcp:118300:11"/> people cannot underſtand till it be made legible by the hand. So much as was in ſight was an act of <hi>moſt tranſcendent Grace:</hi> True in<g ref="char:EOLhyphen"/>deed it is, and it is legible, that <hi>Saul</hi> ſpake to <hi>Jonathan</hi> his ſon (bad <note place="margin">1 Sam. 19 1.</note> councell to a young Prince, therefore an Almighty hand ſtaied <hi>Jona<g ref="char:EOLhyphen"/>than</hi> upright, converſing with ſuch a Father, and amongſt ſuch Coun<g ref="char:EOLhyphen"/>cellours) <hi>and to all his ſervants, as we heard, That they ſhould kill David:</hi> But this was not legible to the people, it was a ſecret from the Court, where <hi>David</hi> had a good friend, <hi>(Jonathan)</hi> who will tell him all he heares, and what his fathers bloody intents are, that ſo he might pre<g ref="char:EOLhyphen"/>vent them. <hi>Saul</hi> goes on, ſends Meſſengers to <hi>Davids houſe to watch</hi> 
+                     <note place="margin">1 Sam. 19. 11.</note> 
+                     <hi>him,</hi> and <hi>to ſlay him in the morning;</hi> but his wife makes an ill-favoured ſhift to ſave her husband, and tells a lie to boote. So <hi>David</hi> eſcaped <note place="margin">Pſalm. 59.</note> at that time, and makes a Pſalme of <hi>Thankeſgiving</hi> to the LORD after his manner; ſo many deliverances, ſo many Pſalmes <hi>to call to remembrance.</hi> Then to <hi>Ramah</hi> he runnes, and <hi>Saul</hi> ſent Meſſengers as faſt after him, and then came himſelfe thither (we ſhall read more of that in due place) And now that <hi>Saul</hi> is at <hi>Ramah, David</hi> flies from thence, and comes to <hi>Jonathan;</hi> he and <hi>David</hi> are made ſure together, and faſt one to the other. [Marke it by the way, <hi>Saul</hi> had his <hi>Scout</hi> to <hi>ſpie,</hi> as you ſhall heare anon: The LORD provided for <hi>David</hi> too, he had a Spie at Court, a faſt friend there cloſe at <hi>Sauls</hi> elbow. Be thou as <hi>David</hi> was upright with the LORD, thou ſhalt have a <hi>Jona<g ref="char:EOLhyphen"/>than,</hi> a true friend at Court, that is certaine] I proceed, The Father ob<g ref="char:EOLhyphen"/>ſerves great ſignes, and tokens of their love, ſo his anger kindled a<g ref="char:EOLhyphen"/>gainſt <hi>Jonathan</hi> and reproacheth him ſhamefully; it grieved <hi>Saul that</hi> 
+                     <note place="margin">1 Sam. 20. 30, 31.</note> 
+                     <hi>David liveth upon the ground</hi> (that is the expreſſion) commands <hi>Jona<g ref="char:EOLhyphen"/>than</hi> to fetch him unto his Father, for he <hi>ſhall ſurely die: Jonathan</hi> will ſee reaſon for what he does; he will not run out of the Court gates to fetch <hi>David</hi> to his Father, becauſe his Father ſaid, <hi>David ſhall die: Jo<g ref="char:EOLhyphen"/>nathan</hi> was a good man, notwithſtanding the bloody words his ear dranke in from his Fathers mouth continually, and his converſing daily with bloody Courtiers [God, He onely, keeps the heart upright and from pollution, even there where Satans throne is] there <hi>Jonathan</hi> was a good man and an obedient Son notwithſtanding.</p>
+                  <p>
+                     <hi>Object.</hi> Nay but he was not you may ſay, for his Father, a King, commands, and <hi>Jonathan,</hi> a ſon, diſobeyes.</p>
+                  <p>
+                     <hi>Anſ.</hi> It is ſeemingly ſo indeed, and, as we uſe to ſay, That he is an obedient ſervant, who obeyes his Lord, never examining what is the
+<pb n="14" facs="tcp:118300:12"/> command and charge, nor how unjuſt; as the Kings Attourney did obey, commanded by his Maſter to accuſe the <hi>ſix Members</hi> ſitting in Parliament of high Treaſon: This was an obedient ſervant, ſay we, but what ſays the Lord our great Maſter in heaven? I think the Judge<g ref="char:EOLhyphen"/>ment <note place="margin">Deut. 19. 19, 20, 21.</note> from the LORD is, That this wicked ſervant ſhalbe drawn firſt, and hanged after. <hi>For ye ſhall do unto this evill ſervant, as he had thought to have done unto his brother.</hi> This was the <hi>Law</hi> anciently, what propor<g ref="char:EOLhyphen"/>tion the laws have now, with this then, let the honeſt Lawyer judge. Now we are informed of and reſolved in an high point, or queſtion, who has an obedient ear? Who obeys indeed? He who diſobeys the <hi>perverſe will</hi> of <hi>Saul,</hi> and obeyes the <hi>Holy will</hi> of GOD: This muſt be our reſolution now, which was <hi>Jonathans</hi> then, he diſobeyed, he re<g ref="char:EOLhyphen"/>ſiſted (as ſome expreſſe it) his Father, pleades <hi>Davids</hi> caſe, and his innocency, which vexed <hi>Saul</hi> not a little, as appeared by his Anſwer, for he made reply to that, with his <hi>Javelin.</hi> Now <hi>Jonathan</hi> has a full diſcovery of that <hi>Evill ſpirit</hi> ruling in his Father, takes a little lad with him, and betakes himſelfe to his bowe (for <hi>Jonathan</hi> is allowed the wiſdome of the ſerpent) ſhoots an arrow, ſends words after the Boy, but intends them to <hi>Davids</hi> ear, make <hi>ſpeed, haſt, ſtay not,</hi> the evil ſpirit workes effectually in my Father. Then <hi>he ſent back the lad,</hi> runs to <hi>David,</hi> they imbrace one the other; bid farewell, then turned back to back, <hi>Jonathan</hi> back to his Fathers Court, <hi>David</hi> haſtens for<g ref="char:EOLhyphen"/>wards, and comes to <hi>Nob,</hi> that ſtrong hold, we ſhall come thither anon alſo.</p>
+               </div>
+               <div n="3" type="chapter">
+                  <head>Chap. 3.</head>
+                  <argument>
+                     <p>
+                        <hi>Words and Actions then, are compared and weighed with theſe now; and being weighed, are found light now as then.</hi>
+                     </p>
+                  </argument>
+                  <p>Now we will looke over what has been ſaid, and take the reſult there from, which is brieſly this, gathered to our hands; <hi>Sauls</hi> words (thoſe that were heard abroad) were as ſoft as butter, when war was in the heart; his actions alſo (thoſe the Common people, remote <note place="margin">Pſal. 55.</note> from Court, and unacquainted with matters &amp; tranſactions there can
+<pb n="15" facs="tcp:118300:12"/> take notice of) were very lovely, full of favour, and indeed, <hi>moſt tran<g ref="char:EOLhyphen"/>ſcendent Grace:</hi> yet were they <hi>ſnares</hi> and <hi>traps,</hi> or, to expreſſe it as the Searcher of hearts does, very <hi>drawne ſwords.</hi> This is the Reſult of all <hi>Sauls</hi> Words and Actions hitherto, the very product the Spirit gives us there-from. Now I will compare together <hi>Words</hi> then, and <hi>Words</hi> now; <hi>Actions</hi> then, and <hi>Actions</hi> now; and for the <hi>intentions</hi> of the heart, I will leave them to the world to read, for they will be legi<g ref="char:EOLhyphen"/>ble by and by.</p>
+                  <p>The King (in the hands of wicked men) has given good words; ſo did <hi>Saul</hi> too: The King now, by his evill Councell, has made ſo many Declarations of his grace and favour, ſo full of engagements, that he is worſe then an Infidell that will not beleeve him; ſo they ſay, who, what ever they know, care not what they ſay. I will entreat but this, obſerve this Story well, and we ſhall never truſt bare words; no, nor the moſt lovely Actions neither that can be in ſhew. In this Story we have all this, moſt gracious words, and <hi>moſt tranſcendent Acts of Grace,</hi> yet proved themſelves meere <hi>traps</hi> and <hi>ſnares,</hi> very <hi>drawne ſwords.</hi> It is poſſible now, to ſay no more yet, that Acts of <hi>meere Right,</hi> and <hi>Common Juſtice,</hi> (the Acts and Grants of the King have been no other, no not even for the continuance of a Parliament) may prove as deceitfull now: And whether ſo or not, the Court and places there-abouts can more then gueſſe, for the Court is witneſſe of as hard dealing from the King againſt <hi>David</hi> now, as it was in <hi>Sauls</hi> time againſt <hi>David</hi> then. Nay, (to go-on a little in the generall) Court, City, Countrey, all, now can tell us, That, as, when <hi>Sauls</hi> words were moſt like unto oyle and butter, moſt ſmooth and ſoft, then were the thoughts of his heart moſt bloudy and treacherous, even as <hi>drawne ſwords:</hi> ſo now, when the Kings-party made ſome o<g ref="char:EOLhyphen"/>vertures towards a peace; when they gave moſt goodly words (as oft times they did) then were the moſt devilliſh projects hatching, and bringing forth to the birth: when the wicked made ſhews of Ju<g ref="char:EOLhyphen"/>ſtice, then they plotted againſt the Juſt, and gnaſhed upon him with their teeth, againſt all the rules of humanity and juſtice alſo; when the wicked ſeemed as Angels of Light, then did they carry-on De<g ref="char:EOLhyphen"/>ſignes moſt horrid and helliſh, as it is at this day. But, what a good <hi>God,</hi> what a diſcovering <hi>God</hi> does Iſrael ſerve! Who would not ſerve Him! He ſuffers the wicked to conceive miſchiefe, to travell with iniquity, and then to bring forth falſhood: He leaves them to <note place="margin">Pſal. 7. 14.</note>
+                     <pb n="16" facs="tcp:118300:13"/> their owne Councells, to make a pit, and dig it deep, and then they muſt fall into the ditch they have made; their miſchiefe muſt returne <note place="margin">Verſe 15. Verſe 16. Verſe 17.</note> upon their own <hi>head,</hi> and their <hi>violent dealing muſt come downe upon their owne pate:</hi> (proceed) <hi>I will praiſe the</hi> Lord <hi>according to his Righteouſneſſe: and will ſing praiſe unto the</hi> Lord <hi>moſt high.</hi> O that the wicked could conſider all this, and this which follows, <hi>Let not him that is d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ceived, truſt in vanity: for vanity ſhall be his recompence.</hi> 
+                     <note place="margin">Job 15. 31</note> But I muſt not ſtay upon Generalls: More particularly, Thus, <hi>Saul</hi> commanded it to be ſaid to <hi>David</hi> then, <hi>The King delighteth in thee, and all his ſervants love thee;</hi> he carrieth the ſame regard to thee, as unto his owne childe; for thou muſt be the King Son-in-law.</p>
+                  <p>The King now hath ſaid as much, That he tendered the Parlia<g ref="char:EOLhyphen"/>ment, and their ſafety then, as his owne ſafety, or the ſafety of thoſe moſt neare to him in place and affection; And the very next day, yes, the very next day, theſe lovely words were <hi>drawne ſwords.</hi> But let <hi>words</hi> go: His Actions, before and after, were ſuch, as if he meant to exceed <hi>Saul,</hi> in loving kindneſſes to <hi>David,</hi> he would <hi>marry</hi> (not as <hi>Saul,</hi> his Daughter to <hi>David,</hi> but) himſelfe to his good peo<g ref="char:EOLhyphen"/>ple for ever, his <hi>Kingdome</hi> ſhould be his <hi>wiſe,</hi> he would be <hi>eternally</hi> theirs, ſo long as this world laſteth. So he ſpake, and ſo he did, per<g ref="char:EOLhyphen"/>haps, heartily intending all good to all his good people: But no ſooner did his Majeſty turne aſide, and give his Eare to his pernici<g ref="char:EOLhyphen"/>ous Councell, but all was turned the cleane contrary way: To the ruine of himſelfe and his Kingdome.</p>
+               </div>
+               <div n="4" type="chapter">
+                  <head>Chap. 4.</head>
+                  <argument>
+                     <p>
+                        <hi>Vile and pernicious Councellours pervert their Maſters minde (making ſhewes of much good to his poore people, the clean contrary way; To the deſtruction of the King and King<g ref="char:EOLhyphen"/>dome.</hi>
+                     </p>
+                  </argument>
+                  <p>NO, ſay his Majeſties moſt wicked, deſperate and pernicious Councellours, in whoſe hands he is, for thus they ſay; That his Majeſtie has no <hi>Malignants</hi> about him, none that councell him, but
+<pb n="17" facs="tcp:118300:13"/> for the good of King and Kingdome: And that it is ſo, thus it may appeare to the whole world, (and ſo they would caſt a vaile before the eyes of the multitude) Firſt, by what his Excellent Majeſtie has done; and by the <hi>Acts of moſt tranſcendent Grace,</hi> which has paſſed his hands: Conſider on them in order, and firſt, what he has done.</p>
+                  <p>There were vile Councellours ſet up in high places, the vileſt men <note place="margin">
+                        <hi>A.</hi> Pſal. 12 8.</note> were exalted, and then <hi>the wicked walked on every ſide:</hi> This his Ma<g ref="char:EOLhyphen"/>jeſtie ſuffered to be caſt into priſon, and the one of them he ſuffered to be brought unto the Block: Beſides, he ſuffered the priſon doores to be opened, and let the <hi>oppreſſed go free.</hi>
+                  </p>
+                  <p>We will ſay this onely: This was marvellous in our eyes. The <note place="margin">B.</note> The wiſe man hath given a double obſervation upon it, and it ſhal ſuf<g ref="char:EOLhyphen"/>fice here: <hi>The righteouſnes of the upright ſhall deliver them, but tranſgreſ<g ref="char:EOLhyphen"/>ſours</hi> 
+                     <note place="margin">Pr. 11 6, 8.</note> 
+                     <hi>ſhall be taken in their owne naughtineſſe. The righteous is delivered out of trouble, and the wicked commeth in his ſtead.</hi>
+                  </p>
+                  <p>As he put the wicked downe, ſo, at the ſame time, he exalted pre<g ref="char:EOLhyphen"/>cious <note place="margin">A.</note> men, and <hi>honourable</hi> indeed, he ſet them in high places.</p>
+                  <p>This was marvellous alſo in our eyes: And we judge not what <note place="margin">B.</note> the Councels were, and the intentions of the heart in ſetting-up thoſe ſo <hi>precious</hi> men, and truly <hi>honourable,</hi> though in the multi<g ref="char:EOLhyphen"/>tude <hi>of ſuch Councllours there is ſafety;</hi> and to ſuch Councellours <note place="margin">Pro. 11. 14. 12. 20.</note> there is joy: But we praiſe <hi>God,</hi> That the ſnare is broke. What ſnare? A great ſnare, the ſnare of the world, the faire offers thereof, its <hi>Pompe</hi> and <hi>Glory,</hi> that ſnare is broken. <hi>They were tempted,</hi> ſaith the <note place="margin">Heb. 11. 37.</note> Spirit, with the Glory of the world, that's certaine. If <hi>ſtoning</hi> could not ſerve the turne, nor <hi>ſawing</hi> aſunder neither, <hi>tempt</hi> them with the glory of the world, ſee what that will do? It is not poſſible to with<g ref="char:EOLhyphen"/>ſtand that temptation, without an Almighty aſſiſtance: How have the mighty fallen here? Alas, the humble know full fell, The world <hi>knowes</hi> no other but his owne, thoſe that love the world and his glo<g ref="char:EOLhyphen"/>ry, and are content to live and die with it cloſeſt to the heart. If the world do conferre any glory (which is to guild gold with copper) upon the precious, and truly honourable in the world, it is becauſe they ſhould fall downe and ſerve the world, and blaſpheme their <hi>God,</hi> which they will rather die then do, though they ſhould be <hi>ſtoned, ſawne</hi> aſunder, or ſlaine with the ſword, for they looke to be exalted in due time, and to obtaine <hi>a better Reſurrection:</hi> Therefore, they will not be ſervants to men (mens luſts) not they; They are firmly
+<pb n="18" facs="tcp:118300:14"/> reſolved, though they might be promoted to great honours, and have a houſe full of ſilver and gold, yet they will not pleaſure man, and grieve their <hi>God.</hi>
+                  </p>
+                  <p>His good Subjects of <hi>Scotland,</hi> Rebels ſome moneths before, and <note place="margin">A</note> ſo written upon every Poſt and Pillar, are ſtiled and enacted Bre<g ref="char:EOLhyphen"/>thren, loyall and faithfull Subjects to <hi>God</hi> and their King: The breach was made up, and a day of Remembrance commanded, and all this by his Majeſties command, never ſuch an Act of Grace!</p>
+                  <p>We acknowledge it, and bleſſed be His glorious Name, who <note place="margin">B</note> made up the breach, wide as the Sea; cauſed war to uſher-in peace; gave his people honey out of that <hi>devourer;</hi> delivered his good peo<g ref="char:EOLhyphen"/>ple there, and here, from all the <hi>expectation of the enemy,</hi> from the op<g ref="char:EOLhyphen"/>preſſion of his hand, and ſword of his mouth We praiſe His glori<g ref="char:EOLhyphen"/>ous Majeſtie for all this; And we do not queſtion how upright the Kings heart ſtood in that matter, becauſe he calls his good people of <hi>England</hi> Rebels and Traitours now, for doing their duty, and much leſſe (in ſhew, and indeed) againſt him, then the Scots did; and yet they did nothing but what they had warrant to do from the law of Nature and Reaſon, and their Book, the Kings <hi>Law-Book</hi> too.</p>
+                  <p>His Majeſty put down the two Courts, as infamous over the Chri<g ref="char:EOLhyphen"/>ſtian <note place="margin">A</note> world, as ever was, or is the <hi>Spaniſh Inquiſition,</hi> the Popes trueſt Purgatory: for theſe Courts were turned againſt the Righteous, and with ſuch violence and extremity, that it was juſtly accounted, the greateſt tyranny, and fevereſt kinde of perſecution under heaven; Whence it came to paſſe, that thoſe Courts ſtank before <hi>David</hi> and all Iſrael. There the eſtates of men were conſumed, their conſciences wracked, their perſons abaſed, and abuſed worſe then <hi>Davids</hi> fer<g ref="char:EOLhyphen"/>vants, yea, more cruelly then will a Maſtiffe-Dog touſe a poore ſheep, or lug a ſwine: So and worſe then ſo were the ſervants of the <hi>Lord</hi> touſed, crapped, and lugged by the eares. In theſe places they ſaid unto the ſoule of the Righteous, <hi>Bow downe, that we may go over, and he laid his body as the ground, and as the ſtreet to them that went o<g ref="char:EOLhyphen"/>ver</hi> 
+                     <note n="g" place="margin">Iſa. 51.</note> There they gathered themſelves together againſt <hi>the ſoule of the Righteous, and condemned the innocent bloud.</hi> I ſay the <hi>innocent,</hi> he was the <hi>But,</hi> and the <hi>Mark</hi> that they bended to; he that ſerved <hi>God</hi> and <hi>feared</hi> an <hi>oath,</hi> he that lived <hi>in all good conſcience,</hi> 
+                     <note n="h" place="margin">Act. 23.</note> he was ſmitten on <hi>the mouth;</hi> and becauſe he did ſo, even becauſe he was upright in he<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t: when the vileſt Prieſts, ſuch as made the Offering of the <hi>Lord</hi>
+                     <pb n="19" facs="tcp:118300:14"/> to be abhorted, when ſuch as they were <hi>purged there;</hi> Not as the King of Babylon purged thoſe two baſe perſons, <hi>in the fire</hi> 
+                     <note n="i" place="margin">Jer. 29. 22.</note>; but pur<g ref="char:EOLhyphen"/>ged after the manner of the Court, which was to cleare them, whom <hi>God</hi> and His Word condemned: Theſe Courts his Majeſtie hath put downe, he has taken thoſe yokes from off the neck.</p>
+                  <p>He has ſo, and we thank His glorious Majeſty for this His tranſcen<g ref="char:EOLhyphen"/>dent grace, and favour to His good people evermore, Who intends <note place="margin">B.</note> them good, and will have good done unto them, what ever mans in<g ref="char:EOLhyphen"/>tentions were then, or would have done ſince. It is cleare enough, That the Kings intentions (ſeduced by evill Counſels) were not to disburden his people, not to take off their yoke, but to make it yet heavier, and more to eſtabliſh the foot of Pride; Nor do we judge of the heart now, or of the thoughts, tranſactions, or diſcuſſions of the minde then, within his inward cloſet, and privy chamber there: we do not judge of theſe ſecret <hi>talkings</hi> and <hi>parleys</hi> of his minde any far<g ref="char:EOLhyphen"/>ther, then as lawfully we may, and ought to judge of them now, be<g ref="char:EOLhyphen"/>ing caſt into a faire mould, and as his Majeſtie has given them a true ſtamp, and ſhape ever ſince.</p>
+                  <p>His Majeſtie has paſſed an Act againſt the Biſhops Voting in Par<g ref="char:EOLhyphen"/>liament: and more then that too, touching that matter And this was <note place="margin">A.</note> a very lovely Act indeed.</p>
+                  <p>Indeed it was, and as equitable, as ever was any Act in the world; <note place="margin">B.</note> for enquire what Biſhops did there? All the miſchiefe they could a<g ref="char:EOLhyphen"/>gainſt the LORD CHRIST, and His <hi>hidden ones.</hi> Therefore a moſt equitable Act. We againe and againe thank His glorious Majeſtie, Whoſe over-ruling hand did all this: The King did not do it with a cleare intent thereby to bring glory to <hi>God,</hi> and reliefe to his oppreſ<g ref="char:EOLhyphen"/>ſed people, groaning under thoſe Task-maſters; for his Majeſtie has made a full Declaration of his minde that way; and his people un<g ref="char:EOLhyphen"/>derſtand it very well: Let the Parliament have their will in this alſo, let them take his Biſhops (ſaid his wicked Councell) out of the Court, and let them be taken with his Majeſties favour, and Act of Grace that way: But the <hi>hand of the Philiſtines,</hi> ſaid <hi>Saul:</hi> The Ar<g ref="char:EOLhyphen"/>my of the North ſhall come-up (ſaid the Kings evill Councell) and over-power the Parliament, and undo all that has been done in fa<g ref="char:EOLhyphen"/>vour and honour of <hi>David</hi> and his Court.</p>
+                  <p>It is preſumption to judge of the Kings intentions to be ſo, and ſo bloudy, and deſtructive towards his Parliament, and by conſequence
+<pb n="20" facs="tcp:118300:15"/> to his Kingdome, when his Words and Actions were ſo clearly other<g ref="char:EOLhyphen"/>wiſe, good, pious, and moſt advantagious to King and Kingdome; To iudge his intentions now argueth raſhneſſe, headineſſe, and pre<g ref="char:EOLhyphen"/>ſumption, all three.</p>
+                  <p>No, it does not: For we do not iudge of thoughts, proiects, con<g ref="char:EOLhyphen"/>trivances, <note place="margin">B</note> while theſe are the ſecret <hi>Talkings,</hi> as was aforeſaid, and par<g ref="char:EOLhyphen"/>leys of the minde, for this were raſhneſſe, and madneſſe both, be<g ref="char:EOLhyphen"/>cauſe they are in the dark to us, and indiſcernable: But we may, and ought to iudge of them, when they are made legible by the hand, de<g ref="char:EOLhyphen"/>monſtratively known to the world in full Declarations, touching the Army in the North, and his Biſhops alſo.</p>
+                  <p>There are more Acts of tranſcendent grace yet behinde, But I <note place="margin">A</note> will ſumme up all in this one: The King has paſſed an Act for the continuance of a Parliament, a fundamentall mercy, and ſuch an Act of Grace, as never the like Act paſſed from any Kings hand.</p>
+                  <p>Yes, there has: But let that go: For we will thank God here, <note place="margin">B</note> who can make, a grand enemy to the Parliament, and as great a Traitour to the King and Kingdome, <hi>Digby,</hi> I meane, [not Lord now, but <hi>Nobile Portentum,</hi> a <hi>Noble Monſter,</hi> in the Heathens ac<g ref="char:EOLhyphen"/>count,] <note place="margin">
+                        <hi>Nequit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>a ſord<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>us imbuta Nobitia portenta, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>al. M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>x. lib. 3. c.</hi> 5. Joſh. 10. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>2.</note> an active Inſtrument to work-out this grace and good to the Kingdome: We care not what his intentions were, too bad, and bloudy, and ſo they have declared themſelves; but we Praiſe, we Bleſſe, we magnifie the LORD <hi>Jehovah,</hi> Who did as great a work at that time, in our dayes, as he did in <hi>Joſhuahs</hi> day, when He made <hi>The Sun to ſtand ſtill upon Gibeon,</hi> and <hi>The Moon in the valley of Aiialon:</hi> VVe exalt and magnifie this God; and ſo we are reſolved to doe while we have <hi>any being;</hi> and not to give any thanke] to the kings Councellours, and yet we will give the King his due, for we ſay, and ſhall make good what we ſay, had this <hi>Act</hi> been from the King, an <hi>Act of Grace,</hi> there had been <hi>grace</hi> in it: I mean, he had given <hi>grace</hi> unto it by continuing a gracious aſpect upon it, and his Influence in<g ref="char:EOLhyphen"/>to it, ſeeing it was not imaginable how he could, in ſo doing, wrong himſelfe or preiudice his prerogative, for it had been good for his Kingdom (and that was the end) then it could not but be good for him. But that his People may know and be aſſured what <hi>grace</hi> was in that <hi>Act</hi> of continuing <hi>his Parliament,</hi> the King with-hol is all grace from it; Makes it, what he could, and to his power, <hi>headleſſe,</hi> and <hi>uſeleſſe;</hi> he takes away all <hi>life</hi> and power from it, ſo far as was in
+<pb n="21" facs="tcp:118300:15"/> his power: I beleeve the oldeſt man living never heard of the like, of an <hi>Act of grace</hi> made ſo <hi>graceleſſe.</hi> And yet I think I have read of an Act ſomewhat like it, and that was as bloody an Act, I think, as ever was done in the world, and yet it ſeemed and carried the face, and obtained the opinion in the People (a little while) of an <hi>Act of grace.</hi> Thus it was, <hi>Duke D' Alva,</hi> (all the world knew what he was) had be<g ref="char:EOLhyphen"/>ſieged a Towne in the low-countreys ſo long, that the Inhabitants, in extremity, treate with him for their <hi>lives,</hi> he ſhall have a peaceable en<g ref="char:EOLhyphen"/>trance, all the Ammunition, and all, onely the Inhabitants crave their lives: It was granted, their <hi>lives</hi> I meane, and the People accept it thankefully, as an <hi>Act of grace,</hi> for life is a precious thing. When the Conquerour (a Tyrant rather) was entred the city; he keeps the Peo<g ref="char:EOLhyphen"/>ple pent-up ſtill, and denies them bread, and yet tells them he keeps Covenant with them and keeps himſelf to the Articles of agreement: <hi>They have their lives,</hi> but they <hi>ſhall have no bread,</hi> for bread, that was not expreſſed in the Covenant: No? O monſtrous! But it is boor<g ref="char:EOLhyphen"/>leſſe to cry out and diſpute the matter now, otherwiſe I could make this good at large, as I ſhall by and by very briefely; That the Con<g ref="char:EOLhyphen"/>querour granting them their <hi>lives,</hi> did, in the ſame <hi>grant</hi> give them bread too: But the <hi>Lord</hi> has Anſwered this matter by himſelfe, ſo I will paſſe it over, and apply it, onely telling the Reader this firſt, That this Act of Grace was ſo graceleſſe, that it rendered him o<g ref="char:EOLhyphen"/>dious to all people after this; and did the King his maſter <hi>Philip</hi> of <hi>Spaine</hi> no ſmall diſadvantage too, for it loſt him a little Kingdom, which neither his Sonne, nor his Sons ſon could ever recover againe, no not to this day; They will not be ſubject to him who would give them their <hi>lives</hi> but no <hi>bread</hi> to ſuſtaine life; I will apply it (ſo far) as it fits to our purpoſe.</p>
+                  <p>Truly this Act of the King, which is ſo extolled, is but too like this <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> mentioned, <hi>life</hi> was granted; why then <hi>bread</hi> too, in the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> grant: <hi>bread</hi> is denied a poor People, why then <hi>life</hi> is denied them, for they cannot live without bread [though I read of a maid, that did live without bread or meat, and was named <hi>Meatleſſe,</hi> it is a loud lie told by a Papiſt amongſt a thouſand more after his manner] I ſay life here cannot be preſerved, in an <hi>ordinary way,</hi> without bread [or ſomething like it] therefore take away bread, you take away <hi>life:</hi> ſo the King, grants an Act, for the continuing his Parliament; an <hi>Act of grace</hi> indeed it is, which lyes in this, included in the ſame Act, a
+<pb n="22" facs="tcp:118300:16"/> grant of all things which lay in him, whereby to make the Parliament ſuccesfull, and, by neceſſary conſequence, himſelf happy, <hi>viz.</hi> his <hi>pre<g ref="char:EOLhyphen"/>ſence,</hi> the influence of his very ſpirits into it, his free aſcent to the paſ<g ref="char:EOLhyphen"/>ſing all Acts tending to the forementioned end: But his Maieſty, ſe<g ref="char:EOLhyphen"/>duced by ev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l counſell, with drawes all this, which is as bread to life; as the Soule of a Parliament, he withdrawes all, and yet this grant, be<g ref="char:EOLhyphen"/>fore ſpecified, muſt be called an <hi>Act of grace;</hi> No, <hi>God</hi> knows, and he knowes, and all his people know, there is no grace in it at all, for he has withdrawne his gracious preſence from his Parliament, and in<g ref="char:EOLhyphen"/>fluence thereunto as aforeſaid.</p>
+                  <p>No, his Maieſty did not willnngly withdraw himſelf, his Parliament <note place="margin">A</note> 
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>erced</hi> him to do as he did, to withdraw from the Tumults about the Court, and from the City.</p>
+                  <p>Take heed what you ſay; <hi>God,</hi> the ſearcher of hearts, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ears us <note place="margin">B</note> what we ſay; and what was ſpoken in ſecret, is made manifeſt now, and that which was hid is knowne and come abroad, and the Parlia<g ref="char:EOLhyphen"/>ments <note place="margin">A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>. 8. 17.</note> Righteouſneſſe touching this imputation, and the Cities in<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>cency is cleared at this point, as the noone-day; therefore pray let <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s ſpeake and heare Reaſon.</p>
+                  <p>Leſſe cannot be ſaid, but what his Maieſty is pleaſed to ſay; he did <note place="margin">A</note> not go from his Parliament but was <hi>driven;</hi> ſo he ſaid again and again.</p>
+                  <p>If it be ſo urged again and again, we will grant it, he was <hi>driven,</hi> and <note place="margin">B</note> did not go but run; which was <hi>Sauls</hi> caſe: Certainly the Parliament did not drive away their King from his Court, no more then <hi>David</hi> did drive <hi>Saul</hi> from his houſe, but an evill councellour did it, and a<g ref="char:EOLhyphen"/>way he goes, nay he does not go but run, for he muſt run whom the Divell drives, and that was a ſad eaſe, we will note it by the way; <hi>Saul</hi> pretendes that David ſought his life, and away he goes in pur<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>it af<g ref="char:EOLhyphen"/>ter David, but when did <hi>Saul</hi> returne to his houſe? Good Reader marke the anſwer, and take heed of making that the cauſe of thy <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ght which is not the Cauſe, and ſo it fails out to thee, that thou, whoſe will carrieth thee from thine houſe, ſhall never returne thither againe in peace. It was ſo with <hi>Saul,</hi> and that is the Anſwer, <hi>he never returned un<g ref="char:EOLhyphen"/>to his houſe in peace:</hi> I ſay in <hi>Peace;</hi> it is true, there is mention a great while after, that <hi>Saul</hi> after a conferrence with <hi>Davîd went home,</hi> and <note place="margin">1 Sam. 24. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 26. 25.</note> after a bleſſing upon <hi>David, Returned to his place.</hi> I cannot tell where, or what that place was, perhaps ſome ſtrong Fort, Caſtle, or the like, for war was in his heart, ſo long as the evill Spirit was there, and
+<pb n="23" facs="tcp:118300:16"/> there he was, though non-pluſſed then, and ſilenced for a time; But this is certaine, where ever <hi>Sauls</hi> houſe or place was, he had no peace there, for ſurely he never ceaſed from perſecuting of <hi>David,</hi> till <hi>Da<g ref="char:EOLhyphen"/>vid</hi> went to <hi>Gath;</hi> and about that time <hi>Saul</hi> heares a noice of a great <hi>Power</hi> comming againſt him, whither of Iſraelites or Philiſtines I cannot tell: But the ſacred Text tell us plainly, That he, who ran from his houſe at the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vill Spirits motion, and the motion of his own will, never returned againe in peace, never enjoyed quiet reſt there, at home afterward. This puts me in minde of a communication be<g ref="char:EOLhyphen"/>twixt two great perſons, and a reſolution thereupon: <q>Go thou one way, and I will go another, (both their own wayes, driving-on furi<g ref="char:EOLhyphen"/>ouſly towards a curſed end) ſo they wen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> on-ward, ſetting their face againſt God, and their back one to the other, but never met again.</q> Truly it yeelds us a very ſad conſideration, but this onely we will ſay touching the King driven (they ſay) from his Court: There he might have reſted within the armes and imbracings of his good peo<g ref="char:EOLhyphen"/>ple, moſt quietly and ſecurely there, had it liked and pleaſed his Ma<g ref="char:EOLhyphen"/>jeſtie beſt: But his will ſeemed his beſt Councellour (amongſt the reſt we know no other reaſon) and he did otherwiſe, and moſt contrary to his owne reſt, and quiet, egged-on, and acted no doubt, by that <hi>evill Spirit,</hi> acting moſt effectually, and envying evermore to Kings and people all, their reſt and happineſſe. So he went from his Court, and his good people, or rather was indeed, or too truly, driven thence by the inſtigation of his wicked Councell, and a common Adverſary, as aforeſaid: And now he lives as one in the land of <hi>Nod,</hi> where he never enioyed himſelfe, nor one dayes reſt and quiet ever ſince. Councels (which are carried headlong) adviſed his Maieſty at that time to repair unto a ſtrong hold, [O that they had told their Maſter where that ſtrong hold was, onely the <hi>Almighty God,</hi> and next, the peoples hearts] there to make war with GOD and his good peo<g ref="char:EOLhyphen"/>ple. So war was in propoſition quickly, great preparation for it then, the <hi>ſweet words</hi> wete all loſt, as the Proverbe ſayes, turned into <hi>gall,</hi> or <hi>drawn ſwords.</hi> This we ſhall read in the next Section; where the lan<g ref="char:EOLhyphen"/>guage of the heart, <hi>bloud</hi> and <hi>death</hi> is made legible to all the world, in the bloudieſt characters. I will ſhut up this Section with the wiſe mans <note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 26. 27. <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </note> proverbs, <hi>Whoſe hatred i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> covered by deceit, his wickedneſſe ſhall be ſhewed before the whole congregation. Whoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> diggeth a pit, ſhall fall therei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and he that rolleth a ſtone, it ſhall return upon him. A lying tongue h<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>th th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſe, that are afflicted by it, and a ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ttering mouth <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ke<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>Finis. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Sect.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
